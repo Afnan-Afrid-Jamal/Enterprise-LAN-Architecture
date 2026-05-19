@@ -6,7 +6,7 @@ A production-grade Layer 2 corporate network architecture designed, implemented,
 
 ## 🗺️ Network Architecture Overview
 
-<a href="https://ibb.co.com/yBNh8nB6"><img src="https://i.ibb.co.com/yBNh8nB6/Screenshot-2026-05-19-143603.png" alt="Enterprise Network Topology" width="full" ></a>
+<a href="https://ibb.co.com/yBNh8nB6"><img src="https://i.ibb.co.com/yBNh8nB6/Screenshot-2026-05-19-143603.png" alt="Enterprise Network Topology" width="100%"></a>
 
 The topology implements a collapsed core-distribution block model alongside access layer switching to deliver optimal throughput, failure isolation, and seamless scalability.
 
