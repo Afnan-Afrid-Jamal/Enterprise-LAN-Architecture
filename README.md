@@ -39,12 +39,12 @@ Traditional "Router-on-a-Stick" pipelines are bypassed in favor of hardware-driv
 
 ## 📊 IP Addressing & Allocation Subnets
 
-| VLAN ID | Department Name | Subnet Range | Assigned Default Gateway |
+| VLAN ID | Department Name | Subnet Range |
 | :--- | :--- | :--- | :--- |
-| **VLAN 10** | Admin | `192.168.10.0/24` | `192.168.10.1` |
-| **VLAN 20** | HR | `192.168.20.0/24` | `192.168.20.1` |
-| **VLAN 30** | Marketing | `192.168.30.0/24` | `192.168.30.1` |
-| **VLAN 40** | Employee | `192.168.40.0/24` | `192.168.40.1` |
+| **VLAN 10** | Admin | `192.168.10.0/24` |
+| **VLAN 20** | HR | `192.168.20.0/24` |
+| **VLAN 30** | Marketing | `192.168.30.0/24` |
+| **VLAN 40** | Employee | `192.168.40.0/24` |
 
 ---
 
