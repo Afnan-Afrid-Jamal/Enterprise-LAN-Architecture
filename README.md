@@ -39,8 +39,8 @@ Traditional "Router-on-a-Stick" pipelines are bypassed in favor of hardware-driv
 
 ## 📊 IP Addressing & Allocation Subnets
 
-| VLAN ID | Department Name | Subnet Range |
-| :--- | :--- | :--- | :--- |
+| VLAN ID | Department Name | IP Range |
+| :--- | :--- | :--- |
 | **VLAN 10** | Admin | `192.168.10.0/24` |
 | **VLAN 20** | HR | `192.168.20.0/24` |
 | **VLAN 30** | Marketing | `192.168.30.0/24` |
