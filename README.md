@@ -1,6 +1,6 @@
 # Enterprise LAN Infrastructure & Inter-VLAN Routing
 
-A production-grade Layer 2 and Layer 3 corporate network architecture designed, implemented, and validated using Cisco Packet Tracer. This project simulates a secure, highly-available corporate local area network (LAN) featuring logical department segmentation, link aggregation, and high-speed core routing.
+A production-grade Layer 2 corporate network architecture designed, implemented, and validated using Cisco Packet Tracer. This project simulates a secure, highly-available corporate local area network (LAN) featuring logical department segmentation, link aggregation, and high-speed core routing.
 
 ---
 
